@@ -1,4 +1,4 @@
-# 🌟 **Amanu Moke – Frontend Developer**
+# 🌟 Amanu Moke – Frontend Developer
 
 <!-- Profile Views at the top -->
 <p align="center">
@@ -20,15 +20,21 @@ I enjoy <strong>combining front-end development with tools like Git, GitHub, and
 
 ---
 
-## 🛠️ Tech Stack & Tools
-<div align="center">
+## 🛠️ Tech Stack
+
 ### 🎨 Frontend Development
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" />
 </div>
 
+### 💻 Programming Languages
 <div align="center">
-### 💻 Programming Languages & Tools
-<img src="https://skillicons.dev/icons?i=cpp,python,java,git,github,vscode,nodejs,webpack,postman" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,git,github" />
+</div>
+
+### ⚒️ Tools & Frameworks
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,nodejs,webpack,postman" />
 </div>
 
 ---
@@ -47,12 +53,14 @@ I enjoy <strong>combining front-end development with tools like Git, GitHub, and
 
 ## 🌐 Connect With Me
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) &nbsp; **LinkedIn**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/) &nbsp; **LinkedIn**  
 [![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanumoke913@gmail.com) &nbsp; **Gmail**  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/agape211) &nbsp; **Telegram**
 </div>
 
 ---
 
 ## ✨ Quote
 <p align="center">_"Great developers are always learning."_</p>
+
 
