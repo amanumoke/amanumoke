@@ -1,16 +1,26 @@
-## Hi there 👋
+ 👋 Hi, I'm Aman
+# 3rd Year Information Technology Student | Haramaya University
 
-<!--
-**amanumoke/amanumoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software developer learning full-stack development, networking, and system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+- **Languages:** JavaScript, PHP, Python, Java  
+- **Frontend:** React, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js, PHP  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+ 🚀 Projects
+- School Management Portal (Haramaya Model School)  
+- Portfolio Website using React  
+- Networking Disaster Recovery Plan  
+- MySQL CRUD Applications  
+---
+
+   📫 Contact
+- **Email:** amanumoke913@gmail.com  
+- **GitHub:** github.com/amanumoke
