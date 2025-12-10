@@ -1,110 +1,110 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/qJxNtVf.gif" width="600"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm Aman</h1>
-<h3 align="center">Frontend Developer & IT Student at Haramaya University</h3>
+# 🌟 **Amanu Moke – Frontend Developer**
 
 <p align="center">
-  I focus on building modern, responsive, and user-friendly web interfaces using HTML, CSS, and JavaScript.  
-  Currently learning React to become a full-stack developer in the future.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Interactive+Web+Experiences;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-## 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amanumoke&label=Profile%20Views&color=blue&style=flat" />
-</p>
+## 🚀 **About Me**
+Hey! I'm **Aman**, a passionate **Frontend Developer** who designs clean, fast, and beautiful user interfaces.  
+I love turning ideas into real interactive projects.
 
 ---
 
-## 🔗 Social & Contact
-<p align="left">
-  <a href="mailto:amanumoke913@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/amanumoke">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+# 🛠️ **Tech Stack**
+
+## 🎨 **Frontend Development**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" />
+
+</div>
 
 ---
 
-## 🛠️ Skills (Clean & Focused)
+## 💻 **Programming Languages**
+<div align="center">
 
-### 🎨 **Frontend Core Skills**
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="55" />
-  <img src="https://skillicons.dev/icons?i=css" width="55" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="55" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,git,github" />
 
-### ⚡ **Frontend Frameworks & Styling**
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="55" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
-</p>
+</div>
 
-### 🧰 **Tools I Use**
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="55" />
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" />
-</p>
-
-### 💠 **Other Skill**
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" width="55" />
-</p>
+⭐ **Notes**  
+- **C++** → Problem solving  
+- **Python** → Scripting & automation  
+- **Java** → OOP basics  
+- **Git & GitHub** → Version control  
 
 ---
 
-## 🚀 Featured Projects (Clean Cards)
+## ⚒️ **Tools & Frameworks**
+<div align="center">
 
-### 🔹 **Haramaya Model School Portal**
-⚡ A modern school management portal  
-📌 Features: student info, admin dashboard, authentication  
-📦 Stack: HTML, CSS, JS → upgrading to React + Node.js
+<img src="https://skillicons.dev/icons?i=vscode,nodejs,webpack,postman" />
 
----
-
-### 🔹 **My Portfolio Website (React + Tailwind)**
-🌈 Smooth animations and modern UI  
-📦 Focused on frontend skill presentation  
-🧪 Mobile responsive & clean design  
+</div>
 
 ---
 
-### 🔹 **Frontend Mini-Projects**
-🟦 JavaScript Calculator  
-🟩 To-Do List with LocalStorage  
-🟪 Responsive Navigation Menu  
-🟧 CSS animations and hover effects  
+## ⭐ **Skill Highlights**
+- Responsive Web Design  
+- Clean UI/UX  
+- REST API Integration  
+- Component-based Architecture  
+- Browser Dev Tools  
+- Git Workflow (branching, pull requests, merge)  
 
 ---
 
-## 📊 GitHub Stats (Advanced Theme)
+## 🔥 **GitHub Stats**
+<div align="center">
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=amanumoke&show_icons=true&theme=react" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanumoke&theme=react" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=amanumoke&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanumoke&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
----
-
-## 💬 About Me
-- 🎓 **IT Student** at Haramaya University  
-- 💻 Passionate about **Frontend Development**  
-- 🚀 Currently exploring **React** & modern UI design  
-- 🎯 Becoming a **Full-Stack Developer** soon  
-- ⚡ I believe in: _"Clean code, clean design"_  
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="500" />
-</p>
+# 📌 **Featured Projects**
+<div align="center">
 
-<!-- END -->
+<a href="https://github.com/amanumoke/frontend-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanumoke&repo=frontend-project&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/amanumoke/javascript-learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanumoke&repo=javascript-learning&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 🌐 **Connect With Me**
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanumoke913@gmail.com)
+
+</div>
+
+---
+
+# 🐍 **Contribution Snake Animation**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+# 🌊 **Wave Footer**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves.svg" />
+
+---
+
+# ✨ **Quote**
+> _"Great developers are always learning."_
+
