@@ -53,10 +53,13 @@ I enjoy <strong>combining front-end development with tools like Git, GitHub, and
 
 ## 🌐 Connect With Me
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/) &nbsp; **LinkedIn**  
-[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanumoke913@gmail.com) &nbsp; **Gmail**  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/agape211) &nbsp; **Telegram**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin) &nbsp; **LinkedIn**  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/agape211) &nbsp; **@agape211**  
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanumoke913@gmail.com) &nbsp; **amanumoke913@gmail.com**
+
 </div>
+
 
 ---
 
