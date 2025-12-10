@@ -6,9 +6,9 @@ I’m a passionate software developer learning full-stack development, networkin
 ---
 
 🛠 Skills
-- **Languages:** JavaScript, PHP, Python, Java  
-- **Frontend:** React, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express.js, PHP  
+- **Languages:** JavaScript, PHP, Python, Java, C++ 
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js  
 - **Database:** MySQL, MongoDB  
 - **Tools:** Git, GitHub, VS Code, Postman  
 
@@ -18,7 +18,8 @@ I’m a passionate software developer learning full-stack development, networkin
 - School Management Portal (Haramaya Model School)  
 - Portfolio Website using React  
 - Networking Disaster Recovery Plan  
-- MySQL CRUD Applications  
+- MySQL CRUD Applications
+- Banking system using c++  
 ---
 
    📫 Contact
