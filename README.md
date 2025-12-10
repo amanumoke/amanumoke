@@ -30,12 +30,6 @@ I love turning ideas into real interactive projects.
 
 </div>
 
-⭐ **Notes**  
-- **C++** → Problem solving  
-- **Python** → Scripting & automation  
-- **Java** → OOP basics  
-- **Git & GitHub** → Version control  
-
 ---
 
 ## ⚒️ **Tools & Frameworks**
@@ -67,25 +61,10 @@ I love turning ideas into real interactive projects.
 
 ---
 
-# 📌 **Featured Projects**
-<div align="center">
-
-<a href="https://github.com/amanumoke/frontend-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanumoke&repo=frontend-project&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/amanumoke/javascript-learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanumoke&repo=javascript-learning&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 # 🌐 **Connect With Me**
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/agape211)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanumoke913@gmail.com)
 
@@ -93,18 +72,5 @@ I love turning ideas into real interactive projects.
 
 ---
 
-# 🐍 **Contribution Snake Animation**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-# 🌊 **Wave Footer**
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves.svg" />
-
----
-
 # ✨ **Quote**
 > _"Great developers are always learning."_
-
