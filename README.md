@@ -1,40 +1,40 @@
-# 🌟 Amanu Moke – Frontend Developer
+# 🌟 Amanu Moke – Full Stack & Mobile Developer
 
 <!-- Profile Views at the top -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanumoke&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-<!-- Animated typing intro -->
+<!-- Faster animated typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Interactive+Web+Experiences;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=300&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+NodeJS;Building+Interactive+Web+%26+Mobile+Apps;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
 ## 🚀 About Me
 <p align="center">
-Hey! I'm <strong>Aman</strong>, a passionate <strong>Frontend Developer</strong>.<br>
-I am currently <strong>working on interactive web projects</strong> and <strong>learning new technologies</strong>.<br>
-I enjoy <strong>combining front-end development with tools like Git, GitHub, and VS Code</strong> to build clean, fast, and visually appealing user interfaces.
+Hey! I'm <strong>Aman</strong>, a passionate <strong>Full Stack & Mobile Developer</strong>.<br>
+I am currently <strong>working on web and mobile projects</strong> and <strong>learning new technologies</strong>.<br>
+I enjoy <strong>combining front-end, back-end, and mobile development with tools like Git, GitHub, and VS Code</strong> to build clean, fast, and visually appealing applications.
 </p>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,cpp,python,java,git,github,vscode,nodejs,webpack,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,reactnative,cpp,python,java,nodejs,git,github,vscode,webpack,postman,figma" />
 </div>
 
 ---
 
 ## ⭐ Skill Highlights
 <div align="center">
-- Responsive Web Design  
+- Responsive Web & Mobile Design  
 - Clean UI/UX  
 - REST API Integration  
 - Component-based Architecture  
-- Browser Dev Tools  
+- Browser & Mobile Dev Tools  
 - Git Workflow (branching, pull requests, merge)
 </div>
 
