@@ -1,159 +1,78 @@
+# 🌟 Amanu Moke – Frontend Developer
+
+<!-- Profile Views at the top -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amanu%20Moke&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://komarev.com/ghpvc/?username=amanumoke&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+<!-- Animated typing intro -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amanumoke&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-</p>
-
-<h2 align="center">Frontend Developer • IT Student • Web Builder</h2>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Interactive+Web+Projects;Always+Learning+New+Technologies"/>
-</p>
-
----
-
-# 🧠 About Me
-
-💻 I am an **Information Technology student** and **frontend developer** passionate about building interactive web applications.
-
-🚀 Currently I am:
-
-* Building real web projects
-* Learning modern development tools
-* Combining tools and frontend development to create useful applications
-
----
-
-# 🚀 Featured Projects
-
-### 🌱 FreshPass App
-
-A platform designed for **freshman students** to access courses, learning resources, and track academic progress through a **learning pass system**.
-
-### 🏫 Haramaya Model School System
-
-A **school management web application** for managing students, grades, and school information.
-
-### 🎮 Games Collection
-
-A collection of **browser games built using HTML, CSS, and JavaScript**.
-
-### 📊 Student Grade Tracker
-
-A **JavaScript DOM application** for managing and calculating student grades.
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Interactive+Web+Experiences;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-# 💻 Programming Languages
-
+## 🚀 About Me
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java"/>
-
+Hey! I'm <strong>Aman</strong>, a passionate <strong>Frontend Developer</strong>.<br>
+I am currently <strong>working on interactive web projects</strong> and <strong>learning new technologies</strong>.<br>
+I enjoy <strong>combining front-end development with tools like Git, GitHub, and VS Code</strong> to build clean, fast, and visually appealing user interfaces.
 </p>
 
 ---
 
-# ⚙ Tools
+## 🛠️ Tech Stack
 
-<p align="center">
+### 🎨 Frontend Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,webpack,postman"/>
+### 💻 Programming Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,git,github" />
+</div>
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amanumoke&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanumoke&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
+### ⚒️ Tools & Frameworks
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,nodejs,webpack,postman" />
+</div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanumoke&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanumoke&theme=tokyo-night&hide_border=true"/>
-
-</p>
+## ⭐ Skill Highlights
+<div align="center">
+- Responsive Web Design  
+- Clean UI/UX  
+- REST API Integration  
+- Component-based Architecture  
+- Browser Dev Tools  
+- Git Workflow (branching, pull requests, merge)
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌐 Connect With Me
+<div align="center" style="display:flex; gap:20px; justify-content:center; align-items:center; margin-top:10px;">
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amanumoke&theme=tokyonight&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/amanumoke/amanumoke/output/snake.svg"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://t.me/agape211">
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:amanumoke913@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/D14836" width="40"/>
+<!-- Telegram -->
+<a href="https://t.me/agape211" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+<!-- Gmail -->
+<a href="mailto:amanumoke913@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-
-⭐ *Always learning. Always building.*
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+## ✨ Quote
+<p align="center">_"Great developers are always learning."_</p>
