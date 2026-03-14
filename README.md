@@ -1,86 +1,104 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amanumoke&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<h1 align="center">Hi 👋 I'm Amanu Moke</h1>
-
-<p align="center">
-IT Student • Frontend Developer • Web Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amanu%20Moke&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Interactive+Web+Projects;Always+Learning+New+Technologies" />
+<img src="https://komarev.com/ghpvc/?username=amanumoke&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+</p>
+
+<h2 align="center">Frontend Developer • IT Student • Web Builder</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Interactive+Web+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-## About Me
+# 🧠 About Me
 
-* I am working on building web projects and improving my development skills
-* I am learning different technologies and tools used in modern development
-* I combine tools and frontend development to build interactive and useful applications
+💻 I am an **Information Technology student** and **frontend developer** passionate about building interactive web applications.
+
+🚀 Currently I am:
+
+* Building real web projects
+* Learning modern development tools
+* Combining tools and frontend development to create useful applications
 
 ---
 
-## Tech Stack
+# 🚀 Featured Projects
+
+### 🌱 FreshPass App
+
+A platform designed for **freshman students** to access courses, learning resources, and track academic progress through a **learning pass system**.
+
+### 🏫 Haramaya Model School System
+
+A **school management web application** for managing students, grades, and school information.
+
+### 🎮 Games Collection
+
+A collection of **browser games built using HTML, CSS, and JavaScript**.
+
+### 📊 Student Grade Tracker
+
+A **JavaScript DOM application** for managing and calculating student grades.
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma"/>
 
 </p>
 
 ---
 
-## Programming Languages
+# 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java"/>
 
 </p>
 
 ---
 
-## Tools & Frameworks
+# ⚙ Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,webpack,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,webpack,postman"/>
 
 </p>
 
 ---
 
-## Featured Projects
-
-🚀 **FreshPass App**
-A digital platform designed to help **freshman students manage courses, track learning progress, and access academic resources through a simple learning pass system.**
-
-🏫 **Haramaya Model School System**
-A school management web application for managing students, grades, and school information.
-
-🎮 **Games Collection**
-A collection of browser games built with HTML, CSS, and JavaScript for learning and experimentation.
-
-📊 **Student Grade Tracker**
-A simple web application for managing and calculating student grades using JavaScript DOM manipulation.
-
----
-
-## GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanumoke&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanumoke&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanumoke&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanumoke&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 ---
 
-## GitHub Activity Graph
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanumoke&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -90,25 +108,27 @@ A simple web application for managing and calculating student grades using JavaS
 
 ---
 
-## GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amanumoke&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amanumoke&theme=tokyonight&no-frame=true"/>
 
 </p>
 
 ---
 
-## Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amanumoke/amanumoke/output/snake.svg" />
+
+<img src="https://raw.githubusercontent.com/amanumoke/amanumoke/output/snake.svg"/>
+
 </p>
 
 ---
 
-## Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -129,5 +149,11 @@ A simple web application for managing and calculating student grades using JavaS
 ---
 
 <p align="center">
-"Great developers are always learning."
+
+⭐ *Always learning. Always building.*
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
