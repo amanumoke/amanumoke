@@ -62,5 +62,4 @@ I enjoy <strong>combining front-end, back-end, and mobile development with tools
 ---
 
 ## ✨ Quote
-<p align="center">_"Great developers are always learning."_
-    _ "Innovation begins with a single idea and a line of code."_</p>
+<p align="center">_"Great developers are always learning."_</p>
