@@ -13,7 +13,11 @@
 ---
 
 ## 🚀 About Me
-
+<p align="center">
+Hey! I'm <strong>Aman</strong>, a passionate <strong>Full Stack & Mobile Developer</strong>.<br>
+I am currently <strong>working on web and mobile projects</strong> and <strong>learning new technologies</strong>.<br>
+I enjoy <strong>combining front-end, back-end, and mobile development with tools like Git, GitHub, and VS Code</strong> to build clean, fast, and visually appealing applications.
+</p>
 
 ---
 
