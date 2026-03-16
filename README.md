@@ -35,7 +35,6 @@ I enjoy <strong>combining front-end, back-end, and mobile development with tools
 - REST API Integration  
 - Component-based Architecture  
 - Browser & Mobile Dev Tools  
-- Git Workflow (branching, pull requests, merge)
 </div>
 
 ---
