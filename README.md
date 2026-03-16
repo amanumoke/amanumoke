@@ -1,9 +1,7 @@
 # 🌟 Amanu Moke – Full Stack & Mobile Developer
 
 <!-- Profile Views at the top -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanumoke&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+
 
 <!-- Faster animated typing intro -->
 <p align="center">
