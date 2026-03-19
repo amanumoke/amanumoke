@@ -59,4 +59,5 @@ I enjoy <strong>combining front-end, back-end, and mobile development with tools
 
 ---
 
-
+## ✨ Quote
+<p align="center">_"Great developers are always learning."_</p>
